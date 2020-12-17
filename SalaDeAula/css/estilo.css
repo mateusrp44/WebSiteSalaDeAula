@@ -1,0 +1,11 @@
+/*Folha de Estilo do Projeto*/
+
+.vertical-align-middle {
+    /*Define o alinhamento do ícone no centro da vertical*/
+    vertical-align: middle;
+}
+
+#hora {
+	font-family: 'Orbitron', sans-serif;
+	font-size: 0.8em;
+}
